@@ -1,0 +1,30 @@
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\lab6_zad2\zad2\obj\Debug\net7.0\ref\zad2.dll
+C:\Users\Maciek\Desktop\managment of orders webshop\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\managment of orders webshop\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\managment of orders webshop\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\managment of orders webshop\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\managment of orders webshop\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\managment of orders webshop\obj\Debug\net7.0\ref\zad2.dll

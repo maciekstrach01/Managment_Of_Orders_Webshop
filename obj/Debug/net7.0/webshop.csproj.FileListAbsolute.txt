@@ -1,0 +1,15 @@
+C:\projects\C#\managment of orders webshop cs\bin\Debug\net7.0\webshop.exe
+C:\projects\C#\managment of orders webshop cs\bin\Debug\net7.0\webshop.deps.json
+C:\projects\C#\managment of orders webshop cs\bin\Debug\net7.0\webshop.runtimeconfig.json
+C:\projects\C#\managment of orders webshop cs\bin\Debug\net7.0\webshop.dll
+C:\projects\C#\managment of orders webshop cs\bin\Debug\net7.0\webshop.pdb
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.csproj.AssemblyReference.cache
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.AssemblyInfoInputs.cache
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.AssemblyInfo.cs
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.csproj.CoreCompileInputs.cache
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.dll
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\refint\webshop.dll
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.pdb
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\webshop.genruntimeconfig.cache
+C:\projects\C#\managment of orders webshop cs\obj\Debug\net7.0\ref\webshop.dll
